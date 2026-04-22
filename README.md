@@ -41,7 +41,7 @@ projeto_agente_IA/
 │   │   ├── config.py
 │   │   ├── database.py
 │   │   └── main.py
-│   ├── banco.db
+│   ├── banco.db - Enviado ao github para facilitar importação e testes-
 │   ├── generate_schema_cache.py
 │   ├── requirements.txt
 │   └── .env
